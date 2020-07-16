@@ -1,4 +1,8 @@
 ### Hi there 👋
+⚡ Fun fact:
+  This are the languages on my public repositories
+  
+   ![MrMarble Stats](https://gitlang.mrmarble.dev/mrmarble?format=svg&background=%23eee "MrMarble languages stats")
 
 <!--
 **MrMarble/MrMarble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
