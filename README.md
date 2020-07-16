@@ -4,6 +4,7 @@
   
    ![MrMarble Stats](https://gitlang.mrmarble.dev/mrmarble?format=svg&background=%23eee "MrMarble languages stats")
 
+  I made it with [this](https://github.com/MrMarble/github-language-stats)!
 <!--
 **MrMarble/MrMarble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
