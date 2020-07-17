@@ -1,6 +1,6 @@
 ### Hi there 👋
 ⚡ Fun fact:
-  This are the languages on my public repositories
+  These are the languages on my public repositories
   
    ![MrMarble Stats](https://gitlang.mrmarble.dev/mrmarble?format=svg&background=%23eee "MrMarble languages stats")
 
