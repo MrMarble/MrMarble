@@ -2,7 +2,7 @@
 ⚡ Fun fact:
   These are the languages on my public repositories
   
-   ![MrMarble Stats](https://gitlang.mrmarble.dev/mrmarble?format=svg&background=%23eee "MrMarble languages stats")
+   ![MrMarble Stats](https://gitlang.mrmarble.dev/mrmarble?format=svg&background=%23fff "MrMarble languages stats")
 
   I made it with [this](https://github.com/MrMarble/github-language-stats)!
 <!--
