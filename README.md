@@ -1,10 +1,12 @@
-### Hi there 👋
-⚡ Fun fact:
-  These are the languages on my public repositories
-  
-   ![MrMarble Stats](https://gitlang.mrmarble.dev/mrmarble?format=svg&background=%23fff&minpercent=0.5 "MrMarble languages stats")
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Alvaro</h1>
+<h3 align="center">A passionate developer from Spain</h3>
 
-  I made it with [this](https://github.com/MrMarble/github-language-stats)!
+- 🔭 I’m currently working on whatever came to mind
+- 🌱 I’m currently learning to finish my projects before starting a new one (no)
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmarble&layout=compact"/>
+  </p>
+  
 <!--
 **MrMarble/MrMarble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
