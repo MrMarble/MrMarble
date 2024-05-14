@@ -1,7 +1,7 @@
 <h1>Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" /></h1>
-My name is Alvaro Tinoco and I'm a full-stack developer and a DevOps enthusiast.
+My name is Alvaro Tinoco and I'm a software developer and a DevOps enthusiast.
 
-I'm from Spain and currently working on SNGULAR.
+I'm from Spain and currently working at Red Hat.
 
 ## 📈 Github Stats
 <div align="center">
