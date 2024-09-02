@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.USER_TOKEN }}
           file: 'README.md'
           active-only: false
-          template: '<a href="https://github.com/{{{ login }}}"><img src="{{{ avatarUrl }}}" width="50px" alt="{{{ login }}}" /></a>&nbsp;&nbsp;'
+          template: '<a href="https://github.com/{{{ login }}}"><img src="{{{ avatarUrl }}}" width="30px" alt="{{{ login }}}" /></a>&nbsp;&nbsp;'
           include-private: true
     
       - name: Update README.md
