@@ -8,7 +8,7 @@ I'm **Alvaro**, a Software Developer from Spain working at RedHat with a strong 
 
 </br>
 
-Ever since I joined GitHub **11** years ago, I pushed **8511** commits, opened **84** issues, submitted **371** pull requests, received **641** stars across **89** personal projects, and contributed to **27** public repositories.
+Ever since I joined GitHub **11** years ago, I pushed **8513** commits, opened **84** issues, submitted **371** pull requests, received **641** stars across **89** personal projects, and contributed to **27** public repositories.
 
 
 If you want to support my work, consider [sponsoring me](https://github.com/sponsors/mrmarble)! 💖
@@ -20,5 +20,5 @@ If you want to support my work, consider [sponsoring me](https://github.com/spon
   ✨ Thanks to
 </h5>
 <p>
-<!-- sponsors --><a href="https://github.com/GoRhY"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;7281306?u&#x3D;368ba39b6784f3ec52525f5bd2840eebbc8aa80b&amp;v&#x3D;4" width="50px" alt="GoRhY" /></a>&nbsp;&nbsp;<a href="https://github.com/ai"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;19343?u&#x3D;109019153065fd4af98d015da3ee415790e2ef3e&amp;v&#x3D;4" width="50px" alt="ai" /></a>&nbsp;&nbsp;<a href="https://github.com/"><img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;JamesIves&#x2F;github-sponsors-readme-action&#x2F;dev&#x2F;.github&#x2F;assets&#x2F;placeholder.png" width="50px" alt="" /></a>&nbsp;&nbsp;<!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/GoRhY"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;7281306?u&#x3D;368ba39b6784f3ec52525f5bd2840eebbc8aa80b&amp;v&#x3D;4" width="30px" alt="GoRhY" /></a>&nbsp;&nbsp;<a href="https://github.com/ai"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;19343?u&#x3D;109019153065fd4af98d015da3ee415790e2ef3e&amp;v&#x3D;4" width="30px" alt="ai" /></a>&nbsp;&nbsp;<a href="https://github.com/"><img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;JamesIves&#x2F;github-sponsors-readme-action&#x2F;dev&#x2F;.github&#x2F;assets&#x2F;placeholder.png" width="30px" alt="" /></a>&nbsp;&nbsp;<!-- sponsors -->
 </p>
