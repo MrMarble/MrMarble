@@ -14,3 +14,12 @@ Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMIT
 If you want to support my work, consider [sponsoring me](https://github.com/sponsors/mrmarble)! 💖
 
 **~** [_mrmarble.dev_](https://mrmarble.dev/)
+
+
+<h1 align="center">
+### Thanks to all of you 💝
+</h1>
+
+<p align="center">
+<!-- sponsors --><!-- sponsors -->
+</p>
