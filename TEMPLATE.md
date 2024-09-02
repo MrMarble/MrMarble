@@ -17,7 +17,7 @@ If you want to support my work, consider [sponsoring me](https://github.com/spon
 
 
 <h1 align="center">
-### Thanks to all of you 💝
+Thanks to all of you 💝
 </h1>
 
 <p align="center">
