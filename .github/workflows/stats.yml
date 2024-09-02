@@ -24,6 +24,7 @@ jobs:
         with:
           token: ${{ secrets.USER_TOKEN }}
           file: 'README.md'
+          active-only: false
     
       - name: Update README.md
         shell: bash
