@@ -18,6 +18,13 @@ jobs:
         uses: teoxoy/profile-readme-stats@master
         with:
           token: ${{ secrets.USER_TOKEN }}
+
+      - name: Generate Sponsors 💖
+        uses: JamesIves/github-sponsors-readme-action@v1
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+          file: 'README.md'
+    
       - name: Update README.md
         shell: bash
         run: |
