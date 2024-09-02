@@ -8,9 +8,18 @@ I'm **Alvaro**, a Software Developer from Spain working at RedHat with a strong 
 
 </br>
 
-Ever since I joined GitHub **11** years ago, I pushed **8502** commits, opened **84** issues, submitted **371** pull requests, received **641** stars across **89** personal projects, and contributed to **27** public repositories.
+Ever since I joined GitHub **11** years ago, I pushed **8506** commits, opened **84** issues, submitted **371** pull requests, received **641** stars across **89** personal projects, and contributed to **27** public repositories.
 
 
 If you want to support my work, consider [sponsoring me](https://github.com/sponsors/mrmarble)! 💖
 
 **~** [_mrmarble.dev_](https://mrmarble.dev/)
+
+
+<h1 align="center">
+Thanks to all of you 💝
+</h1>
+
+<p align="center">
+<!-- sponsors --><a href="https://github.com/GoRhY"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;7281306?u&#x3D;368ba39b6784f3ec52525f5bd2840eebbc8aa80b&amp;v&#x3D;4" width="60px" alt="Iñaki López" /></a><a href="https://github.com/ai"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;19343?u&#x3D;109019153065fd4af98d015da3ee415790e2ef3e&amp;v&#x3D;4" width="60px" alt="Andrey Sitnik" /></a><!-- sponsors -->
+</p>
