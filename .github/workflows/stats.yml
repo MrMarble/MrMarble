@@ -32,8 +32,8 @@ jobs:
         shell: bash
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
-            git config user.name 'Alvaro Tinoco'
-            git config user.email 'alvarotinocomarmol@gmail.com'
+            git config user.name 'pepinillo-bot[bot]'
+            git config user.email '${{ secrets.BOT_EMAIL }}'
             git add *.md
             git commit -m "Update README.md"
             git push
