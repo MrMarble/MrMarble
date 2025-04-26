@@ -8,7 +8,7 @@ I'm **Alvaro**, a Software Developer from Spain working at RedHat with a strong 
 
 </br>
 
-Ever since I joined GitHub **11** years ago, I pushed **13328** commits, opened **82** issues, submitted **260** pull requests, received **766** stars across **96** personal projects, and contributed to **13** public repositories.
+Ever since I joined GitHub **11** years ago, I pushed **13328** commits, opened **82** issues, submitted **260** pull requests, received **767** stars across **96** personal projects, and contributed to **13** public repositories.
 
 
 If you want to support my work, consider [sponsoring me](https://github.com/sponsors/mrmarble)! 💖
@@ -20,5 +20,5 @@ If you want to support my work, consider [sponsoring me](https://github.com/spon
   ✨ Thanks to
 </h5>
 <p>
-<!-- sponsors --><a href="https://github.com/GoRhY"><img src="https:&#x2F;&#x2F;github.com&#x2F;GoRhY.png" width="30px" alt="GoRhY" /></a>&nbsp;&nbsp;<a href="https://github.com/ai"><img src="https:&#x2F;&#x2F;github.com&#x2F;ai.png" width="30px" alt="ai" /></a>&nbsp;&nbsp;<a href="https://github.com/"><img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;JamesIves&#x2F;github-sponsors-readme-action&#x2F;dev&#x2F;.github&#x2F;assets&#x2F;placeholder.png" width="30px" alt="" /></a>&nbsp;&nbsp;<!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/GoRhY"><img src="https:&#x2F;&#x2F;github.com&#x2F;GoRhY.png" width="30px" alt="GoRhY" /></a>&nbsp;&nbsp;<a href="https://github.com/ai"><img src="https:&#x2F;&#x2F;github.com&#x2F;ai.png" width="30px" alt="ai" /></a>&nbsp;&nbsp;<a href="https://github.com/ivan-toriya"><img src="https:&#x2F;&#x2F;github.com&#x2F;ivan-toriya.png" width="30px" alt="ivan-toriya" /></a>&nbsp;&nbsp;<a href="https://github.com/"><img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;JamesIves&#x2F;github-sponsors-readme-action&#x2F;dev&#x2F;.github&#x2F;assets&#x2F;placeholder.png" width="30px" alt="" /></a>&nbsp;&nbsp;<!-- sponsors -->
 </p>
