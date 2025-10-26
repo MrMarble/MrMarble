@@ -1,4 +1,4 @@
-<img src="https://avatar.mrmarble.dev/avatar/76561198287455504?github-readme-{{ COMMITS }}" width="160" align="left"/>
+<img src="https://steampic.app/avatars/76561198287455504.webp" width="160" align="left"/>
 
 ### Hey!
 
