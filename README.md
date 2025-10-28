@@ -8,7 +8,7 @@ I'm **Alvaro**, a Software Developer from Spain working at RedHat with a strong 
 
 </br>
 
-Ever since I joined GitHub **12** years ago, I pushed **13773** commits, opened **86** issues, submitted **316** pull requests, received **927** stars across **107** personal projects, and contributed to **10** public repositories.
+Ever since I joined GitHub **12** years ago, I pushed **13773** commits, opened **86** issues, submitted **317** pull requests, received **927** stars across **107** personal projects, and contributed to **10** public repositories.
 
 
 If you want to support my work, consider [sponsoring me](https://github.com/sponsors/mrmarble)! 💖
