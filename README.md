@@ -1,4 +1,4 @@
-<img src="https://avatar.mrmarble.dev/avatar/76561198287455504?github-readme-14634" width="160" align="left"/>
+<img src="https://avatar.mrmarble.dev/avatar/76561198287455504?github-readme-14636" width="160" align="left"/>
 
 ### Hey!
 
@@ -8,7 +8,7 @@ I'm **Alvaro**, a Software Developer from Spain working at RedHat with a strong 
 
 </br>
 
-Ever since I joined GitHub **13** years ago, I pushed **14634** commits, opened **181** issues, submitted **566** pull requests, received **1063** stars across **114** personal projects, and contributed to **12** public repositories.
+Ever since I joined GitHub **13** years ago, I pushed **14636** commits, opened **187** issues, submitted **571** pull requests, received **1064** stars across **114** personal projects, and contributed to **12** public repositories.
 
 
 If you want to support my work, consider [sponsoring me](https://github.com/sponsors/mrmarble)! 💖
